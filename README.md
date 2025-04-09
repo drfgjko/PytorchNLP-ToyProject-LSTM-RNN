@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RNN进行文本生成
 
 ## 前言
@@ -147,3 +148,7 @@ https://github.com/chinese-poetry/chinese-poetry/tree/master/%E5%85%A8%E5%94%90%
 ## 署名
 
 22软工dqy
+=======
+# PytorchNLP-ToyProject
+仅为本人大二下选修课《自然语言处理》的一个简单课设作业展示，使用pytorch构建LSTM与RNN网络进行文本生成。
+>>>>>>> d052cfa04db110e2d3210ee052b21b3810ac6988
